@@ -1,3 +1,6 @@
+import alambique.*
+
+
 object paris {
     method recuerdo() {
         return "llavero torre eiffel"
